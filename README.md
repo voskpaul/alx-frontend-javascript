@@ -1,6 +1,6 @@
 # alx-frontend-javascript
 
-0x00. ES6 Basics JavaScript ES6 By: Johann Kerbrat, Engineering Manager at Uber Works Weight: 1 Project will start Dec 18, 2022 9:00 PM, must end by Dec 19, 2022 9:00 PM was released at Dec 19, 2022 3:00 AM An auto review will be launched at the deadline Concepts For this project, we expect you to look at these concepts:
+0x00. ES6 Basics JavaScript ES6 By: Johann Kerbrat, Engineering Manager at Uber Works Weight: 1 Project will start Mar 10, 2024 9:00 PM, must end by Mar 15, 2024 9:00 PM was released at Mar 12, 2024 3:00 AM An auto review will be launched at the deadline Concepts For this project, we expect you to look at these concepts:
 
 Modern Javascript Software Linter
 
